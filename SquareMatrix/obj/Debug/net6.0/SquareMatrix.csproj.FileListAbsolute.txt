@@ -1,0 +1,17 @@
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\SquareMatrix\SquareMatrix\bin\Debug\net6.0\SquareMatrix.exe
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\SquareMatrix\SquareMatrix\bin\Debug\net6.0\SquareMatrix.deps.json
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\SquareMatrix\SquareMatrix\bin\Debug\net6.0\SquareMatrix.runtimeconfig.json
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\SquareMatrix\SquareMatrix\bin\Debug\net6.0\SquareMatrix.dll
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\SquareMatrix\SquareMatrix\bin\Debug\net6.0\SquareMatrix.pdb
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\SquareMatrix\SquareMatrix\obj\Debug\net6.0\SquareMatrix.csproj.AssemblyReference.cache
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\SquareMatrix\SquareMatrix\obj\Debug\net6.0\SquareMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\SquareMatrix\SquareMatrix\obj\Debug\net6.0\SquareMatrix.AssemblyInfoInputs.cache
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\SquareMatrix\SquareMatrix\obj\Debug\net6.0\SquareMatrix.AssemblyInfo.cs
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\SquareMatrix\SquareMatrix\obj\Debug\net6.0\SquareMatrix.csproj.CoreCompileInputs.cache
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\SquareMatrix\SquareMatrix\obj\Debug\net6.0\SquareMatrix.dll
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\SquareMatrix\SquareMatrix\obj\Debug\net6.0\refint\SquareMatrix.dll
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\SquareMatrix\SquareMatrix\obj\Debug\net6.0\SquareMatrix.pdb
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\SquareMatrix\SquareMatrix\obj\Debug\net6.0\SquareMatrix.genruntimeconfig.cache
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\SquareMatrix\SquareMatrix\obj\Debug\net6.0\ref\SquareMatrix.dll
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\SquareMatrix\SquareMatrix\bin\Debug\net6.0\Microsoft.Office.Interop.Excel.dll
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\SquareMatrix\SquareMatrix\obj\Debug\net6.0\SquareMatrix.csproj.CopyComplete

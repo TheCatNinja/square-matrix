@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WBQSCd4N3LSPNWqFyTCK1qRezCKduXJN/RDnng9GYrTJ0Pl243PNvKYp1+33X1CaAlgXN0bt7EG93smsElugRQ==",
+  "success": true,
+  "projectFilePath": "D:\\Milena Milewska\\Pulpit\\Praktyki\\Zadania\\SquareMatrix\\SquareMatrix\\SquareMatrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\milen\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}
